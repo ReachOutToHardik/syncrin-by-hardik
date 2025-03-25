@@ -1,33 +1,30 @@
 # 🎬 Syncrin – Movie & TV Streaming Platform
 
-Syncrin is a **sleek, responsive movie/TV streaming site** where users can **search for content**, **stream movies or series**, and manage their profile — built using **HTML/CSS/JavaScript** with **Firebase Authentication** and **OMDB API** integration.
+Syncrin is a **sleek, responsive movie/TV streaming site** where users can **search for content**, **stream movies or series**, and manage their profile — built using **HTML/CSS/JavaScript** with **OMDB API** integration.
 
 Designed with a clean **glassmorphism UI**, optimized for **both mobile and desktop**.
 
 ---
 
-## 🔥 Features
-- 🔍 Search for Movies and TV Shows (via OMDB API)
-- 🎥 Stream Movies/TV with embedded player (Vidsrc)
-- 🔐 Firebase Login/Signup with Google Sign-In
-- 💬 Forgot Password – Reset via Email
-- 👤 Profile Page – Change display name & avatar
-- ⚡ Toast Notifications for smooth UX
-- 🎨 Modern Glass UI – Fully Responsive
+## 🚀 Features  
+🔍 **Search any Movie or TV Show** (Instant results from OMDB API)  
+🎨 **Minimal & Clean UI** (Glassmorphism design)  
+📱 **Fully Responsive** (Works on mobile, tablet & desktop)  
+🎥 **Movie Details Page** (Year, Genre, Director, IMDB Rating, etc.)  
+💡 **Fast & Lightweight** (Optimized for speed & smooth experience)
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS (Glass UI), JavaScript (Vanilla)
-- **Auth**: Firebase Authentication (Email/Password + Google)
+- **Frontend**: HTML, CSS, JavaScript 
 - **API**: OMDB API for content data
 - **Streaming**: Vidsrc Embedded Player
-- **Hosting**: GitHub Pages / Firebase Hosting
+- **Hosting**: GitHub Pages
 
 ---
 
 ## 🚀 Live Demo
-🔗 [https://reachouttohardik.github.io/syncrin](https://reachouttohardik.github.io/syncrin) 
+🔗 [https://reachouttohardik.github.io/syncrin-by-hardik](https://reachouttohardik.github.io/syncrin-by-hardik) 
 
 ---
 
